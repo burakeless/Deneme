@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/kizilay_item"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="Kizilay" />
+
+    <item
+        android:id="@+id/hastaneler_item"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="Hastaneler" />
+
+    <item
+        android:id="@+id/main_item"
+        android:icon="@drawable/ic_mode_edit_black_24dp"
+        android:title="AnaEkran" />
+
+    <item
+        android:id="@+id/profile_item"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="KVKV" />
+</menu>
