@@ -3,7 +3,7 @@
 
     <item
         android:id="@+id/kizilay_item"
-        android:icon="@drawable/ic_notifications_black_24dp"
+        android:icon="@drawable/kizilay"
         android:title="Kizilay" />
 
     <item
